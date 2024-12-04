@@ -1,0 +1,1 @@
+This repository contains a React application demonstrating a common error encountered when using React Router Dom v6: the Link component not being found.  The error occurs because the Link component needs to be explicitly imported from 'react-router-dom'.  The solution shows how to correctly import the Link component to fix this issue.
